@@ -1,5 +1,0 @@
-<html>
-  <body>
-    <P>This is a test</P>
-  </body>
-</html>
